@@ -30882,37 +30882,37 @@ break
 case 1:return A.p(q,r)}})
 return A.q($async$th,r)},
 bbt(a){var s,r,q,p,o,n,m,l,k,j,i,h=null
-if(a.db)return B.IK
+if(a.dy)return B.IK
 s=A.ae(12)
 r=a.a.e
 q=t.p
 s=A.b([A.ag(h,A.Y((r==null?"":r)+" \u2022 NKJV",h,h,h,h,B.a6Q,h,h),B.l,h,h,new A.ah(B.bD,h,h,s,h,h,B.p),h,h,B.dG,B.hG,h,h,h)],q)
-if(a.ay.length!==0){r=A.ae(16)
+if(a.CW.length!==0){r=A.ae(16)
 p=A.bB(A.W(60,B.bD.m()>>>16&255,B.bD.m()>>>8&255,B.bD.m()&255),1.5)
-o=a.ay
+o=a.CW
 n=a.a.d
 m=n.y
 n=n.z
-s.push(A.ag(h,A.ji(B.bD,B.bD,B.lK,B.c2,B.bN,n,"Read aloud",o,B.a66,m),B.l,h,h,new A.ah(B.lK,h,p,r,h,h,B.p),h,h,B.js,B.mm,h,h,h))}if(a.k3)s.push(B.II)
-r=a.cy
+s.push(A.ag(h,A.ji(B.bD,B.bD,B.lK,B.c2,B.bN,n,"Read aloud",o,B.a66,m),B.l,h,h,new A.ah(B.lK,h,p,r,h,h,B.p),h,h,B.js,B.mm,h,h,h))}if(a.ok)s.push(B.II)
+r=a.dx
 l=r.length
 k=J.rT(l,t.G)
 for(j=0;j<l;j=i){p=new A.aM(12,12)
 i=j+1
-o=a.CW
+o=a.cy
 o=j<o.length?o[j]:""
 p=A.ag(h,A.Y("Q"+i+": "+o,h,h,h,h,B.EP,h,h),B.l,h,h,new A.ah(B.qk,h,h,new A.cz(p,p,p,p),h,h,B.p),h,h,B.ao,B.cT,h,h,h)
 o=new A.aM(12,12)
 n=a.a.d.b
 k[j]=A.aC(A.b([p,A.ag(h,A.Y(n+": "+r[j],h,h,h,h,B.EU,h,h),B.l,h,h,new A.ah(B.bD,h,h,new A.cz(o,o,o,o),h,h,B.p),h,h,B.P5,B.cT,h,h,h)],q),B.F,B.h,B.i)}B.b.N(s,k)
-if(!a.k3&&a.cx<a.CW.length){r=A.ae(12)
+if(!a.ok&&a.db<a.cy.length){r=A.ae(12)
 p=A.bB(B.bD,1.5)
-o=a.cx
-r=A.ag(h,A.Y("Q"+(o+1)+": "+a.CW[o],h,h,h,h,B.EP,h,h),B.l,h,h,new A.ah(B.qk,h,p,r,h,h,B.p),h,h,B.dG,B.cT,h,h,h)
+o=a.db
+r=A.ag(h,A.Y("Q"+(o+1)+": "+a.cy[o],h,h,h,h,B.EP,h,h),B.l,h,h,new A.ah(B.qk,h,p,r,h,h,B.p),h,h,B.dG,B.cT,h,h,h)
 p=A.ae(12)
 o=A.bB(A.W(80,B.bD.m()>>>16&255,B.bD.m()>>>8&255,B.bD.m()&255),1)
-s.push(A.aC(A.b([r,A.ag(h,A.b5(A.b([A.bJ(A.h9(!1,a.r,B.Rl,!1,h,h,h,1,h,!1,new A.avh(a),B.a3Y,h,B.bn),1),A.f8(B.a8L,new A.avi(a),A.e0(h,h,B.bD,h,h,h,h,h,h,B.e,h,h,h,h,new A.bS(A.ae(10),B.r),h,h,h,h,h))],q),B.o,B.h,B.i,0),B.l,h,h,new A.ah(B.e,h,o,p,h,h,B.p),h,h,h,B.cT,h,h,h)],q),B.F,B.h,B.i))}if(!a.k3){r=a.CW.length
-r=r!==0&&a.cx>=r}else r=!1
+s.push(A.aC(A.b([r,A.ag(h,A.b5(A.b([A.bJ(A.h9(!1,a.r,B.Rl,!1,h,h,h,1,h,!1,new A.avh(a),B.a3Y,h,B.bn),1),A.f8(B.a8L,new A.avi(a),A.e0(h,h,B.bD,h,h,h,h,h,h,B.e,h,h,h,h,new A.bS(A.ae(10),B.r),h,h,h,h,h))],q),B.o,B.h,B.i,0),B.l,h,h,new A.ah(B.e,h,o,p,h,h,B.p),h,h,h,B.cT,h,h,h)],q),B.F,B.h,B.i))}if(!a.ok){r=a.cy.length
+r=r!==0&&a.db>=r}else r=!1
 if(r){r=A.ae(16)
 s.push(A.ag(h,A.aC(A.b([B.a8Z,B.al,A.Y('Great work, ${_profile?.childName ?? "Reader"}!',h,h,h,h,B.oM,B.b0,h),B.cD,B.a9h],q),B.o,B.h,B.i),B.l,h,h,new A.ah(B.bD,h,h,r,h,h,B.p),h,h,B.OK,B.c3,h,h,h))}return A.agL(s,a.f,B.c3,h,!1)},
 Vk:function Vk(a){this.a=a},
@@ -30964,33 +30964,33 @@ _.d=a
 _.e=b
 _.f=c
 _.r=d
-_.y=_.x=_.w=!1
-_.z=e
-_.as=_.Q=!1
-_.at=f
-_.ax=!1
-_.ay=""
-_.CW=g
-_.cx=0
-_.cy=h
-_.db=!1
-_.dx=i
-_.dy=j
-_.fr=k
-_.fx=!1
-_.fy=""
-_.go=l
-_.id=null
-_.k4=_.k3=_.k2=_.k1=!1
-_.ok=null
-_.p1=""
-_.p2=1
-_.p3=0
-_.p4=-1
-_.R8=m
-_.RG=n
-_.rx=o
-_.to=_.ry=!1
+_.Q=_.z=_.y=_.x=_.w=!1
+_.as=e
+_.ax=_.at=!1
+_.ay=f
+_.ch=!1
+_.CW=""
+_.cy=g
+_.db=0
+_.dx=h
+_.dy=!1
+_.fr=i
+_.fx=j
+_.fy=k
+_.go=!1
+_.id=""
+_.k1=l
+_.k2=null
+_.p1=_.ok=_.k4=_.k3=!1
+_.p2=null
+_.p3=""
+_.p4=1
+_.R8=0
+_.RG=-1
+_.rx=m
+_.ry=n
+_.to=o
+_.x2=_.x1=!1
 _.c=_.a=null},
 aHX:function aHX(){},
 aHY:function aHY(){},
@@ -105139,7 +105139,7 @@ return s},
 grG(){var s=this.a.d.c
 return s},
 gld(){var s=this.a.d.fx.e
-return s+this.p3},
+return s+this.R8},
 gV2(){var s=this.a.d.fx.r
 return s},
 gBW(){var s=this.a.d.fx.c
@@ -105393,23 +105393,23 @@ case 2:return A.o(o.at(-1),r)}})
 return A.q($async$AP,r)},
 wS(){var s=0,r=A.r(t.H),q=this,p,o,n,m,l,k,j,i,h
 var $async$wS=A.t(function(a,b){if(a===1)return A.o(b,r)
-for(;;)switch(s){case 0:k=q.dy
+for(;;)switch(s){case 0:k=q.fx
 j=A.Z(k)
 i=j.i("dw<1,j>")
 h=A.a0(new A.dw(new A.aG(k,new A.aI1(),j.i("aG<1>")),new A.aI2(),i),i.i("w.E"))
 j=q.gen()
 i=q.a
 p=i.c
-o=q.dx.a
+o=q.fr.a
 o=B.c.aF(o.charCodeAt(0)==0?o:o)
-n=q.p2
+n=q.p4
 i=i.d
 m=i.e
 i=i.fx
 s=2
-return A.n(A.yj(j,h,o,k,q.ok,0,p,!0,m,i,n),$async$wS)
+return A.n(A.yj(j,h,o,k,q.p2,0,p,!0,m,i,n),$async$wS)
 case 2:l=b
-if(l!=null)q.ok=l
+if(l!=null)q.p2=l
 return A.p(null,r)}})
 return A.q($async$wS,r)},
 lc(a){return this.aiK(a)},
@@ -105419,10 +105419,10 @@ s=q}for(;;)switch(s){case 0:o.F(new A.aHB(o))
 o.iy(new A.f0(B.fe,"\u2728 Writing your story..."))
 a4=o.e
 a4.push(f7)
-a5=o.p2
+a5=o.p4
 n=a5>=o.gld()
-A.cb().$1("\ud83d\udd0d TURN DEBUG [_generateStorySegment]: turnCount="+a5+", totalTurns="+o.gld()+", extraTurns="+o.p3+", isEnding="+A.l(n))
-if(o.gV2()>0){a5=o.p2
+A.cb().$1("\ud83d\udd0d TURN DEBUG [_generateStorySegment]: turnCount="+a5+", totalTurns="+o.gld()+", extraTurns="+o.R8+", isEnding="+A.l(n))
+if(o.gV2()>0){a5=o.p4
 a5=a5>0&&B.j.c_(a5,o.gV2())===0}else a5=!1
 a6=a5&&!n
 a5=new A.kf(a4,A.Z(a4).i("kf<1>"))
@@ -105431,18 +105431,18 @@ a8=a5.gfI(a5).e5(0,new A.aHC(),a7).aU(0,"\n")
 a5=o.gUY().length!==0?o.gUY():"Child name: "+o.gen()+", age: "+o.grG()
 a9=o.gKx().length!==0?o.gKx():"No pets in this story."
 b0=o.a.c
-b1=o.p2
+b1=o.p4
 b2=o.gld()
 b3=A.l(n)
-b4=o.p1
+b4=o.p3
 b4=b4.length!==0?"\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\nGENRE STORY RULES (CRITICAL \u2014 MUST FOLLOW EXACTLY)\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\n"+b4+"\n":""
-b5=o.rx
+b5=o.to
 b5=b5.length!==0?"\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\nAVAILABLE IMAGE TOPICS\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\nWe have curated images for these topics: "+B.b.aU(b5,", ")+'.\nTry to feature these topics naturally in your story scenes and choices.\nReturn the matching topic name exactly in the "imageSearch" field.\n':""
 b6=o.a
 b7=b6.e
 b8=b7!=null
 b9=b8?"\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\nDESTINATION (CRITICAL)\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\nThe child has chosen this specific destination: "+b7+"\nBegin the story in this exact location/era. Do not substitute a different one.\n":""
-c0=o.p2===1
+c0=o.p4===1
 c1=c0&&b8?"\nOPENING TURN INSTRUCTION (CRITICAL): Begin this story with a vivid 2-3 sentence description of "+b7+" that makes the child feel they have just arrived there. Use sensory details \u2014 what they see, hear, and feel. Then continue into the story action.":""
 b7=c0&&b8?'\nGEO INTRO INSTRUCTION (CRITICAL): Also return a "geoIntro" field in the JSON with 2 simple, age-appropriate sentences describing the geography and environment of '+b7+' \u2014 what kind of place it is, what lives there, and what makes it special. Write it for a child who has never heard of it. Example: "Australia is a giant island continent surrounded by ocean, home to animals found nowhere else on Earth. The outback is a vast red desert in the middle of Australia \u2014 hot, dry, and full of amazing wildlife."':""
 b6=b6.c
@@ -105474,7 +105474,7 @@ d5=a6?"FILL-IN RULES":""
 d6=a6?"- After the "+o.gYW()+' sentences, add ONE fill-in starter AS A SEPARATE "fillIn" field ONLY \u2014 do NOT include it in the "text" field\n- Must end with ___\n- Must be concrete and completable in 1-3 words\n- Must be in-the-moment and action-based \u2014 child responds as if inside the story right now\n- Must relate to something visible or active in the last scene\n- Must fit the genre reality level\n- NEVER require self-reflection or looking back on real life experiences\n- NEVER require a full sentence to answer \u2014 just a word or short phrase\n- Good examples: "The animal I saw was ___", "I grabbed my ___", "It smelled like ___", "I would fight it with a ___"\n- Bad examples: "The bravest thing I ever did was ___", "What I learned was ___", "I felt ___"\n':""
 d7=!n?"- ONE bridge sentence (max "+o.gX0()+" words)\n- Bridge creates anticipation like a page turn\n- Bridge sentences must end with a natural transition that opens into the choices \u2014 never just restate the last action.\n- EXACTLY "+o.gBW()+" choices\n- Choices must be things "+o.gen()+" SEES or DISCOVERS\n- Choices must fit the genre: "+o.gJo()+"\n- Choices must logically follow the last scene\n- NO absurd combinations (no random food+space objects etc)\n- Max "+o.gX_()+" words per choice\n- All "+o.gBW()+" choices must be equally interesting\n- CRITICAL: You must return EXACTLY "+o.gBW()+" choices, never fewer\n":"- No choices. This is the ending."
 d8=o.a.c==="animal adventure"?'\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\nANIMAL FIELD RULE\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\n- If this story segment introduces a NEW animal for the first time, return its common name in the "animal" field (e.g. "shoebill", "roadrunner", "kangaroo").\n- Use the simplest common name Wikipedia would recognize.\n- EXCEPTION: if the story specifically highlights a visual difference between male and female of this species (e.g. plumage, coloring, antlers) \u2014 such as a surprising fact about sexual dimorphism \u2014 include that distinction in the animal field instead of the generic name alone (e.g. "male cardinal", "female cardinal", not just "cardinal"). This matters educationally and should not be collapsed to the simplest name in this specific case.\n- If no new animal is introduced this turn, return null for "animal".\n':""
-d9=o.RG
+d9=o.ry
 d9=d9.length!==0?"\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\nIMAGE SEARCH VARIETY RULE\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\nSearch terms already used earlier in this story: "+B.b.aU(d9,", ")+"\nDo NOT repeat one of these unless THIS exact scene is genuinely still centered on\nthat same specific subject. Ground the search term in what is actually happening\nin THIS turn \u2014 do not default back to an earlier turn's subject just because it\nis the destination's most iconic or \"safe\" image (e.g. if the destination is\nAncient Egypt but this scene is a sandstorm, search for the sandstorm, not the\npyramids again just because pyramids were already searched once).\n":""
 e0=o.a
 e1=e0.c
@@ -105489,7 +105489,7 @@ e8=e7?'"imageSearch": "REQUIRED - 2-4 word descriptive search term for the most 
 e7=e7?'"subtopic": "1-2 word specific activity or subject in this scene (e.g. battle, exploration, ceremony, construction, trade, farming, coronation). Era or location only if no specific activity applies.",':""
 e9=e1==="fairy tale"?'"imageSearch": "REQUIRED - 2-4 word search term naming concrete, visible things in this scene (a character, object, creature, or setting) \u2014 never an abstract genre or mood word. If the destination/theme names a specific story or franchise (e.g. Frozen, Cinderella, Beauty and the Beast), use that story\'s actual character names (e.g. Elsa ice palace, Anna Olaf snowman, Cinderella glass slipper, Belle rose castle, Rapunzel golden tower). Otherwise describe the specific characters/objects/setting actually in this scene (e.g. princess castle garden, dragon knight forest, fairy godmother wand, glass slipper staircase). Bad examples (never return these): fantasy, magic, fairy tale, adventure, wonder, enchanted \u2014 these are categories, not searchable images. Return null only if scene has nothing visually interesting.",':""
 e1=e1==="type your own story"?'"imageSearch": "REQUIRED - 2-4 word concrete search term for the most visually interesting object, character, or creature in THIS specific scene \u2014 never the story\'s overall premise or idea sentence. Examples: talking pet rock garden, sneezing robot workshop, dragon cave treasure, shrinking potion bottle, secret closet door. Bad example (never do this): reusing the full story idea as the search term. Return null only if scene has nothing visually interesting.",':""
-e0=o.p2===1&&e0.e!=null?'"geoIntro": "2 sentence geography description for a child",':""
+e0=o.p4===1&&e0.e!=null?'"geoIntro": "2 sentence geography description for a child",':""
 f0=a6?'"fillIn": "sentence starter ___",':""
 f1=!n?o.gen()+" looked around and wondered...":""
 f2=n?"[]":'["genre-appropriate discovery 1", "genre-appropriate discovery 2"]'
@@ -105521,7 +105521,7 @@ a9=J.T(h,"choices")
 b=A.cI(a9==null?[]:a9,!0,a7)
 a4.push("Story wrote: "+A.l(g))
 if(d!=null&&B.c.aF(d).length!==0){o.iy(new A.f0(B.Py,B.c.aF(d)))
-o.dy.push(new A.cZ("geo_intro",B.c.aF(d),null,null))}o.iy(new A.f0(B.mY,g))
+o.fx.push(new A.cZ("geo_intro",B.c.aF(d),null,null))}o.iy(new A.f0(B.mY,g))
 a5.a=a5.b=null
 if(o.a.c==="animal adventure"){a=J.T(h,"animal")
 if(typeof a=="string"&&B.c.aF(a).length!==0&&B.c.aF(a).toLowerCase()!=="null")a5.b=B.c.aF(a).toLowerCase()}else{a0=J.T(h,"imageSearch")
@@ -105537,12 +105537,12 @@ return A.n(a2.$0(),$async$lc)
 case 13:s=11
 break
 case 12:a2.$0()
-case 11:a4=o.dx
+case 11:a4=o.fr
 a5=a4.a
 if(a5.length!==0)a4.a=a5+"\n\n"
 a5=A.l(g)
 a4.a+=a5
-a5=o.dy
+a5=o.fx
 a5.push(new A.cZ("story",g,f,null))
 s=n?14:16
 break
@@ -105553,19 +105553,19 @@ s=17
 return A.n(o.wS(),$async$lc)
 case 17:s=15
 break
-case 16:if(e!=null){o.id=e
-o.fr=b
-o.fx=!1
-o.fy=c
+case 16:if(e!=null){o.k2=e
+o.fy=b
+o.go=!1
+o.id=c
 a5.push(new A.cZ("fill_in_prompt",e,null,null))
 o.iy(new A.f0(B.Pw,e))
 o.F(new A.aHF(o))}else{a3=new A.vL(b,c)
-o.go.push(a3)
-o.fr=b
-o.fx=!1
+o.k1.push(a3)
+o.fy=b
+o.y=o.x=o.go=!1
 a4=o.a.d.Q
-if(a4){o.fy=c
-o.F(new A.aHG(o))}else{o.fy=c
+if(a4){o.id=c
+o.F(new A.aHG(o))}else{o.id=c
 o.F(new A.aHH(o))}o.Kb()}case 15:s=8
 break
 case 9:o.iy(new A.f0(B.mY,"Oops! Something went wrong. Try again!"))
@@ -105593,7 +105593,7 @@ o.iy(new A.f0(B.fe,"\u2728 Thinking of what happens next..."))
 e=o.gen()
 d=o.grG()
 c=o.a.c
-b=o.id
+b=o.k2
 b.toString
 a=o.gVf()
 a0=o.gJo()
@@ -105620,9 +105620,9 @@ h=a3==null?o.gen()+" had to decide...":a3
 e=J.T(i,"choices")
 g=A.cI(e==null?[]:e,!0,d)
 f=new A.vL(g,h)
-o.go.push(f)
+o.k1.push(f)
 o.F(new A.aHw(o,h,g))
-A.cb().$1("\ud83d\udd0d TURN DEBUG [_generateChoicesFromFillIn SUCCESS]: turnCount="+o.p2+", totalTurns="+o.gld()+" (unchanged by this call)")
+A.cb().$1("\ud83d\udd0d TURN DEBUG [_generateChoicesFromFillIn SUCCESS]: turnCount="+o.p4+", totalTurns="+o.gld()+" (unchanged by this call)")
 o.Kb()}q=1
 s=5
 break
@@ -105650,60 +105650,62 @@ break
 case 1:return A.p(q,r)}})
 return A.q($async$AE,r)},
 BL(a){return this.apa(a)},
-apa(a){var s=0,r=A.r(t.H),q=this,p,o,n,m,l
+apa(a){var s=0,r=A.r(t.H),q,p=this,o,n,m,l,k
 var $async$BL=A.t(function(b,c){if(b===1)return A.o(c,r)
-for(;;)switch(s){case 0:A.cb().$1("\ud83d\udd0d TURN DEBUG [_onChoiceTapped ENTRY]: turnCount="+q.p2+", totalTurns="+q.gld()+", extraTurns="+q.p3+", currentChoicesFromFillIn="+q.fx)
-q.y=q.x=!1
-q.e.push(q.gen()+" chose: "+a)
-p=q.go
-if(p.length===0){o=q.fy
-p.push(new A.vL(A.cI(q.fr,!0,t.N),o))}if(q.fr.length!==0)B.b.gaf(p).a=A.cI(q.fr,!0,t.N)
-B.b.gaf(p).c=a
-q.iy(new A.f0(B.Pv,B.j.k(p.length-1)))
-n=p.length!==0?B.b.gaf(p).a:q.fr
-q.dy.push(new A.cZ("choice_set",B.D.f8(A.X(["choices",n,"selected",a,"bridge",q.fy],t.N,t.K),null),null,null))
-q.F(new A.aHU(q))
-p=q.p2
-m=p>=q.gld()-1&&q.p3<6&&q.p4!==q.gld()
-A.cb().$1("\ud83d\udd0d TURN DEBUG [_onChoiceTapped POST-INCREMENT]: turnCount="+p+", totalTurns="+q.gld()+", extraTurns="+q.p3+", lastAskedAt="+q.p4+", shouldAsk="+m)
-s=m?2:3
+for(;;)switch(s){case 0:if(p.x){s=1
+break}p.x=!0
+A.cb().$1("\ud83d\udd0d TURN DEBUG [_onChoiceTapped ENTRY]: turnCount="+p.p4+", totalTurns="+p.gld()+", extraTurns="+p.R8+", currentChoicesFromFillIn="+p.go)
+p.Q=p.z=!1
+p.e.push(p.gen()+" chose: "+a)
+o=p.k1
+if(o.length===0){n=p.id
+o.push(new A.vL(A.cI(p.fy,!0,t.N),n))}if(p.fy.length!==0)B.b.gaf(o).a=A.cI(p.fy,!0,t.N)
+B.b.gaf(o).c=a
+p.iy(new A.f0(B.Pv,B.j.k(o.length-1)))
+m=o.length!==0?B.b.gaf(o).a:p.fy
+p.fx.push(new A.cZ("choice_set",B.D.f8(A.X(["choices",m,"selected",a,"bridge",p.id],t.N,t.K),null),null,null))
+p.F(new A.aHU(p))
+o=p.p4
+l=o>=p.gld()-1&&p.R8<6&&p.RG!==p.gld()
+A.cb().$1("\ud83d\udd0d TURN DEBUG [_onChoiceTapped POST-INCREMENT]: turnCount="+o+", totalTurns="+p.gld()+", extraTurns="+p.R8+", lastAskedAt="+p.RG+", shouldAsk="+l)
+s=l?3:4
 break
-case 2:q.p4=q.gld()
-s=4
-return A.n(q.AE(),$async$BL)
-case 4:l=c
-A.cb().$1("\ud83d\udd0d TURN DEBUG [_askToContinue RESULT]: wantsMore="+A.l(l))
-if(l)q.F(new A.aHV(q))
-case 3:q.lc(q.gen()+" chose: "+a)
-return A.p(null,r)}})
+case 3:p.RG=p.gld()
+s=5
+return A.n(p.AE(),$async$BL)
+case 5:k=c
+A.cb().$1("\ud83d\udd0d TURN DEBUG [_askToContinue RESULT]: wantsMore="+A.l(k))
+if(k)p.F(new A.aHV(p))
+case 4:p.lc(p.gen()+" chose: "+a)
+case 1:return A.p(q,r)}})
 return A.q($async$BL,r)},
 Xg(){var s,r,q,p,o=this
 if(o.w)return
 o.w=!0
-A.cb().$1("\ud83d\udd0d TURN DEBUG [_onFillInSubmitted ENTRY]: turnCount="+o.p2+", totalTurns="+o.gld()+" (fill-in does not advance turnCount itself)")
+A.cb().$1("\ud83d\udd0d TURN DEBUG [_onFillInSubmitted ENTRY]: turnCount="+o.p4+", totalTurns="+o.gld()+" (fill-in does not advance turnCount itself)")
 A.lB()
 s=o.r
 r=B.c.aF(s.a.a)
 if(r.length===0){o.w=!1
 return}q=o.gen()
-p=o.id
+p=o.k2
 p.toString
 o.e.push(q+' completed "'+p+'" with "'+r+'"')
 o.iy(new A.f0(B.rr,r))
-o.dy.push(new A.cZ("fill_in_answer",r,null,null))
+o.fx.push(new A.cZ("fill_in_answer",r,null,null))
 o.F(new A.aHW(o))
 s.eP(0,B.bH)
 o.B8(r)},
 J(a){var s,r,q=this,p=null,o=q.a.c,n=o==="space travel"?B.JK:B.ab,m=t.p
 o=A.ag(p,A.b5(A.b([A.Y("\ud83d\udcd6 "+q.gen()+"'s Story",p,p,p,p,B.eK,p,p),A.b5(A.b([A.Y(o,p,p,p,p,B.eJ,p,p),B.cl,A.c3(p,A.ag(p,B.EZ,B.l,p,p,new A.ah(B.ed,p,p,A.ae(8),p,p,B.p),p,p,p,B.rb,p,p,p),B.v,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.aIy(q,a),p,p,p,p,p,p)],m),B.o,B.h,B.i,0)],m),B.o,B.ch,B.i,0),B.l,p,p,B.GA,p,p,p,B.ri,p,p,p)
-if(q.ax)s=A.bbt(q)
+if(q.ch)s=A.bbt(q)
 else{s=q.d.length
-r=q.fr.length!==0&&!q.k3&&!q.k1&&!q.x&&!q.y?1:0
+r=q.fy.length!==0&&!q.ok&&!q.k3&&!q.z&&!q.Q?1:0
 r=A.aQN(q.f,new A.aIz(q),s+r,B.c3)
 s=r}s=A.b([o,A.bJ(s,1)],m)
-if(q.k1&&q.k2&&!q.k3&&!q.ax)s.push(q.aeS())
-if(q.x&&!q.k3&&!q.ax)s.push(q.aeH())
-if(!q.ax&&q.d.length!==0&&!q.k3)s.push(q.aeM())
+if(q.k3&&q.k4&&!q.ok&&!q.ch)s.push(q.aeS())
+if(q.z&&!q.ok&&!q.ch)s.push(q.aeH())
+if(!q.ch&&q.d.length!==0&&!q.ok)s.push(q.aeM())
 return A.i8(p,n,A.kr(B.cK,A.b([A.f_(!0,A.aC(s,B.o,B.h,B.i),B.P,!0)],m),B.w,B.c7,p))},
 aoq(a,b){var s,r,q,p,o,n,m,l=this,k=null,j="Read aloud"
 switch(a.a.a){case 7:return l.aop(a.b)
@@ -105752,11 +105754,11 @@ n=q.y
 q=q.z
 return A.ag(k,A.ji(B.aW,B.dB,B.eb,B.lS,B.bN,q,"Read answer",a.b,B.Ey,n),B.l,k,k,new A.ah(B.e,k,r,s,k,k,B.p),k,k,B.bP,B.aY,k,k,k)
 case 12:return l.aeI(a.b)}},
-aeH(){var s=this,r=null,q=A.c3(r,A.ag(r,B.QC,B.l,r,r,new A.ah(s.ry?B.aX:B.qL,r,r,r,r,r,B.dw),r,40,r,r,r,r,40),B.v,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,s.gav5(),r,r,r,r,r,r),p=A.bJ(A.h9(!1,s.z,B.Rj,!1,r,r,r,1,r,!1,new A.aH4(s),B.d7,r,B.bn),1),o=s.y?B.a1H:A.c3(r,A.ag(r,B.QS,B.l,r,r,B.GF,r,40,r,r,r,r,40),B.v,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,s.gaut(),r,r,r,r,r,r),n=t.p
+aeH(){var s=this,r=null,q=A.c3(r,A.ag(r,B.QC,B.l,r,r,new A.ah(s.x1?B.aX:B.qL,r,r,r,r,r,B.dw),r,40,r,r,r,r,40),B.v,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,s.gav5(),r,r,r,r,r,r),p=A.bJ(A.h9(!1,s.as,B.Rj,!1,r,r,r,1,r,!1,new A.aH4(s),B.d7,r,B.bn),1),o=s.Q?B.a1H:A.c3(r,A.ag(r,B.QS,B.l,r,r,B.GF,r,40,r,r,r,r,40),B.v,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,s.gaut(),r,r,r,r,r,r),n=t.p
 return A.ag(r,A.aC(A.b([B.a9e,B.al,A.b5(A.b([q,B.bV,p,B.bG,o],n),B.o,B.h,B.i,0)],n),B.F,B.h,B.i),B.l,r,r,new A.ah(B.Kg,r,B.Gn,r,r,r,B.p),r,r,r,B.rd,r,r,r)},
 CI(){var s=0,r=A.r(t.H),q,p=this
 var $async$CI=A.t(function(a,b){if(a===1)return A.o(b,r)
-for(;;)switch(s){case 0:if(p.ry){A.lB()
+for(;;)switch(s){case 0:if(p.x1){A.lB()
 p.F(new A.aIn(p))
 s=1
 break}p.F(new A.aIo(p))
@@ -105766,15 +105768,17 @@ case 3:case 1:return A.p(q,r)}})
 return A.q($async$CI,r)},
 x5(){var s=0,r=A.r(t.H),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e,d
 var $async$x5=A.t(function(a,b){if(a===1){o.push(b)
-s=p}for(;;)switch(s){case 0:A.lB()
-g=n.z
+s=p}for(;;)switch(s){case 0:if(n.y){s=1
+break}n.y=!0
+A.lB()
+g=n.as
 m=B.c.aF(g.a.a)
 g.eP(0,B.bH)
 n.F(new A.aId(n))
 if(J.bU(m)===0){n.F(new A.aIe(n))
 s=1
 break}n.iy(new A.f0(B.Pu,m))
-n.dy.push(new A.cZ("authorship_input",m,null,null))
+n.fx.push(new A.cZ("authorship_input",m,null,null))
 n.F(new A.aIf(n))
 p=4
 g=n.e
@@ -105803,18 +105807,18 @@ case 6:case 1:return A.p(q,r)
 case 2:return A.o(o.at(-1),r)}})
 return A.q($async$x5,r)},
 aeM(){var s,r,q,p,o=this,n=null
-if(o.Q){s=A.bJ(A.h9(!0,o.at,B.Rg,!1,n,n,n,1,n,!1,new A.aH9(o),B.d7,n,B.bn),1)
-r=o.to
+if(o.at){s=A.bJ(A.h9(!0,o.ay,B.Rg,!1,n,n,n,1,n,!1,new A.aH9(o),B.d7,n,B.bn),1)
+r=o.x2
 q=r?B.aW:B.lS
 p=r?B.jP:B.na
 q=A.c3(n,A.AW(A.le(p,r?B.e:B.aW,n,20),new A.ah(q,n,n,n,n,n,B.dw),B.T,n,B.OD,B.hJ,n),B.v,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,o.gau9(),n,n,n,n,n,n)
-r=o.as?B.a1J:A.f8(B.a9p,o.gauu(),A.e0(n,n,B.aW,n,n,n,n,n,n,B.e,n,n,n,n,new A.bS(A.ae(10),B.r),n,n,n,n,n))
+r=o.ax?B.a1J:A.f8(B.a9p,o.gauu(),A.e0(n,n,B.aW,n,n,n,n,n,n,B.e,n,n,n,n,new A.bS(A.ae(10),B.r),n,n,n,n,n))
 r=A.b5(A.b([B.a9C,B.bG,s,q,r,B.bG,A.c3(n,B.Qy,B.v,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.aHa(o),n,n,n,n,n,n)],t.p),B.o,B.h,B.i,0)
 s=r}else s=A.c3(n,A.b5(A.b([A.ag(n,B.a_A,B.l,n,n,new A.ah(B.aW,n,n,A.ae(20),n,n,B.p),n,n,n,B.OY,n,n,n)],t.p),B.o,B.h,B.as,0),B.v,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.aHb(o),n,n,n,n,n,n)
 return A.AW(s,B.GI,B.T,n,n,B.P3,n)},
 x_(){var s=0,r=A.r(t.H),q,p=this
 var $async$x_=A.t(function(a,b){if(a===1)return A.o(b,r)
-for(;;)switch(s){case 0:s=p.to?3:4
+for(;;)switch(s){case 0:s=p.x2?3:4
 break
 case 3:s=5
 return A.n(A.lB(),$async$x_)
@@ -105828,11 +105832,11 @@ case 6:case 1:return A.p(q,r)}})
 return A.q($async$x_,r)},
 x6(){var s=0,r=A.r(t.H),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f
 var $async$x6=A.t(function(a,b){if(a===1){o.push(b)
-s=p}for(;;)switch(s){case 0:g=B.c.aF(n.at.a.a)
+s=p}for(;;)switch(s){case 0:g=B.c.aF(n.ay.a.a)
 if(J.bU(g)===0){s=1
 break}n.F(new A.aIi(n))
 n.iy(new A.f0(B.Ps,g))
-j=n.dy
+j=n.fx
 j.push(new A.cZ("curiosity_q",g,null,null))
 p=4
 m="A "+n.grG()+'-year-old child is reading a story and asked this question: "'+A.l(g)+'"\nAnswer in 2-3 simple sentences at a '+n.grG()+"-year-old reading level. Be warm, friendly, and make it interesting. No jargon."
@@ -105859,7 +105863,7 @@ case 2:return A.o(o.at(-1),r)}})
 return A.q($async$x6,r)},
 aeI(a){var s=null,r=A.ae(16),q=A.Y("\u270d\ufe0f "+a,s,s,s,s,B.EX,s,s),p=A.ae(20)
 return new A.dk(B.bZ,s,s,A.ag(s,A.aC(A.b([q,B.c6,A.c3(s,A.ag(s,B.a_C,B.l,s,s,new A.ah(B.ed,s,A.bB(B.JF,1),p,s,s,B.p),s,s,s,B.fa,s,s,s),B.v,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aH5(this,a),s,s,s,s,s,s)],t.p),B.cw,B.h,B.i),B.l,s,s,new A.ah(B.aX,s,s,r,s,s,B.p),s,s,B.Pj,B.hG,s,s,s),s)},
-aeJ(a){var s,r,q,p,o=null,n=this.go
+aeJ(a){var s,r,q,p,o=null,n=this.k1
 if(a>=n.length)return B.Z
 s=n[a]
 n=A.ae(16)
@@ -105876,7 +105880,7 @@ tb(a,b,c){return this.arD(a,b,c)},
 arD(a,b,c){var s=0,r=A.r(t.H),q,p=this,o,n,m,l,k,j,i,h,g,f,e
 var $async$tb=A.t(function(d,a0){if(d===1)return A.o(a0,r)
 for(;;)switch(s){case 0:h=p.a.c
-g=p.R8
+g=p.rx
 f=A.a0(g,A.u(g).c)
 s=3
 return A.n(A.Eh(b,f,h),$async$tb)
@@ -105921,7 +105925,7 @@ n=0
 for(;;){if(!(n<p.length&&n<6))break
 j=p[n]
 if(j.length!==0)o.push(A.X(["label",q[n],"url",j],l,l));++n}if(o.length===0)return B.Z
-return new A.Jc(s,o,new A.aHl(m,s,r,a),new A.aHm(m,a,s,r),new A.aHn(m,a,r),m.k1,m.k2,new A.aHo(m),null)},
+return new A.Jc(s,o,new A.aHl(m,s,r,a),new A.aHm(m,a,s,r),new A.aHn(m,a,r),m.k3,m.k4,new A.aHo(m),null)},
 aop(a){var s,r,q,p,o,n=null,m=a.split("|")
 if(m.length<2)return B.Z
 s=m[0]
@@ -105932,7 +105936,7 @@ o=t.p
 return A.ag(n,A.aC(A.b([A.dA(new A.eA(B.lA,A.rP(r,new A.aH2(),B.he,n,new A.aH3(),n),n),n,n),new A.aP(B.fb,A.b5(A.b([B.kM,B.bG,A.Y(s[0].toUpperCase()+B.c.bV(s,1),n,n,n,n,B.ET,n,n)],o),B.o,B.h,B.i,0),n)],o),B.bc,B.h,B.i),B.w,n,n,new A.ah(B.e,n,n,q,p,n,B.p),n,n,B.bP,n,n,n,n)},
 wF(){var s=0,r=A.r(t.H),q,p=this
 var $async$wF=A.t(function(a,b){if(a===1)return A.o(b,r)
-for(;;)switch(s){case 0:s=p.ry?3:4
+for(;;)switch(s){case 0:s=p.x1?3:4
 break
 case 3:s=5
 return A.n(A.lB(),$async$wF)
@@ -105944,7 +105948,7 @@ s=6
 return A.n(A.FM(new A.aIv(p),new A.aIw(p)),$async$wF)
 case 6:case 1:return A.p(q,r)}})
 return A.q($async$wF,r)},
-aeS(){var s=this,r=null,q=s.ry,p=q?B.qI:B.ee,o=A.bB(q?B.qI:B.aV,2),n=q?B.jP:B.na
+aeS(){var s=this,r=null,q=s.x1,p=q?B.qI:B.ee,o=A.bB(q?B.qI:B.aV,2),n=q?B.jP:B.na
 p=A.c3(r,A.AW(A.le(n,q?B.e:B.hp,r,24),new A.ah(p,r,o,r,r,r,B.dw),B.T,48,r,r,48),B.v,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,s.gaow(),r,r,r,r,r,r)
 q=q?"Listening...":"Type your answer..."
 return A.ag(r,A.b5(A.b([p,B.bV,A.bJ(A.h9(!0,s.r,A.mN(r,new A.fr(4,A.ae(12),B.r),r,r,r,r,r,r,!0,r,r,r,r,r,r,B.e,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,q,r,r,r,r,r,r,r,r,r,!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,r,1,r,!1,new A.aHh(s),B.dT,r,B.bn),1),B.bV,A.f8(B.a9P,s.gaps(),A.e0(r,r,B.k,r,r,r,r,r,r,B.e,r,r,B.fc,r,new A.bS(A.ae(12),B.r),r,r,r,r,r))],t.p),B.o,B.h,B.i,0),B.l,r,r,B.GC,r,r,r,B.rd,r,r,r)},
@@ -105967,38 +105971,38 @@ $S:148}
 A.aHR.prototype={
 $0(){var s=this.b
 if(s==null)s=""
-return this.a.p1=s},
+return this.a.p3=s},
 $S:0}
 A.aHS.prototype={
-$0(){return this.a.rx=this.b},
+$0(){return this.a.to=this.b},
 $S:0}
 A.aHO.prototype={
 $0(){var s=this.a
-s.ax=s.db=!0},
+s.ch=s.dy=!0},
 $S:0}
 A.aHP.prototype={
 $0(){var s=this.b
-s.ay=this.c
-s.db=!1},
+s.CW=this.c
+s.dy=!1},
 $S:0}
 A.aHQ.prototype={
-$0(){this.a.db=!1},
+$0(){this.a.dy=!1},
 $S:0}
 A.aHp.prototype={
-$0(){return this.a.k3=!0},
+$0(){return this.a.ok=!0},
 $S:0}
 A.aHq.prototype={
 $0(){var s=this.a
-s.CW=this.b
-s.cx=0
-s.k3=!1},
+s.cy=this.b
+s.db=0
+s.ok=!1},
 $S:0}
 A.aHr.prototype={
-$0(){return this.a.k3=!1},
+$0(){return this.a.ok=!1},
 $S:0}
 A.aHT.prototype={
 $0(){var s=this.a
-s.cy.push(B.c.aF(this.b));++s.cx
+s.dx.push(B.c.aF(this.b));++s.db
 s.r.eP(0,B.bH)},
 $S:0}
 A.aI3.prototype={
@@ -106018,10 +106022,10 @@ $1(a){return a.b},
 $S:142}
 A.aHB.prototype={
 $0(){var s=this.a
-s.k3=!0
-s.y=s.x=!1
-s.fr=A.b([],t.s)
-s.fy=""},
+s.ok=!0
+s.Q=s.z=!1
+s.fy=A.b([],t.s)
+s.id=""},
 $S:0}
 A.aHC.prototype={
 $1(a){return"  "+(a.a+1)+". "+a.b},
@@ -106038,16 +106042,16 @@ var $async$$0=A.t(function(a3,a4){if(a3===1)return A.o(a4,r)
 for(;;)switch(s){case 0:a1=p.a
 a2=a1.b
 if(a2==null){a1=p.b
-if(a1.k1&&a1.c!=null){A.cb().$1("\u2705 FIX ACTIVE: null image on fill-in turn \u2014 auto-unblocking fillInImageReady (this line proves the 7/9 fix is running)")
+if(a1.k3&&a1.c!=null){A.cb().$1("\u2705 FIX ACTIVE: null image on fill-in turn \u2014 auto-unblocking fillInImageReady (this line proves the 7/9 fix is running)")
 a1.F(new A.aHM(a1))}s=1
 break}o=a2
 a2=p.b
 n=a2.a.c
 f=a1.a
 m=f==null?"":f
-a1=a2.RG
+a1=a2.ry
 if(!B.b.p(a1,o))a1.push(o)
-a1=a2.R8
+a1=a2.rx
 e=A.a0(a1,A.u(a1).c)
 s=3
 return A.n(A.Eh(o,e,n),$async$$0)
@@ -106076,35 +106080,35 @@ if(a0==null)a0=""
 h=B.b.aU(A.b([o,a1,e,b,a,a0,k,m],t.s),"|")
 g=J.aTU(J.AS(l),new A.aHN())||J.bU(k)!==0
 if(g&&a2.c!=null){a2.iy(new A.f0(B.mZ,h))
-a2.dy.push(new A.cZ("image_picker",h,null,null))}case 1:return A.p(q,r)}})
+a2.fx.push(new A.cZ("image_picker",h,null,null))}case 1:return A.p(q,r)}})
 return A.q($async$$0,r)},
 $S:3}
 A.aHM.prototype={
-$0(){return this.a.k2=!0},
+$0(){return this.a.k4=!0},
 $S:0}
 A.aHN.prototype={
 $1(a){return a.length!==0},
 $S:25}
 A.aHE.prototype={
 $0(){var s=this.a
-s.k3=!1
-s.k4=!0},
+s.ok=!1
+s.p1=!0},
 $S:0}
 A.aHF.prototype={
 $0(){var s=this.a
-s.k1=!0
-s.w=s.k3=s.k2=!1},
+s.k3=!0
+s.y=s.x=s.w=s.ok=s.k4=!1},
 $S:0}
 A.aHG.prototype={
 $0(){var s=this.a
-s.x=!0
-s.k3=!1},
+s.z=!0
+s.ok=!1},
 $S:0}
 A.aHH.prototype={
-$0(){return this.a.k3=!1},
+$0(){return this.a.ok=!1},
 $S:0}
 A.aHI.prototype={
-$0(){return this.a.k3=!1},
+$0(){return this.a.ok=!1},
 $S:0}
 A.aHJ.prototype={
 $0(){return B.b.dw(this.a.d,new A.aHz())},
@@ -106113,10 +106117,10 @@ A.aHz.prototype={
 $1(a){return a.a===B.fe},
 $S:70}
 A.aHK.prototype={
-$0(){return this.a.k3=!1},
+$0(){return this.a.ok=!1},
 $S:0}
 A.aHu.prototype={
-$0(){return this.a.k3=!0},
+$0(){return this.a.ok=!0},
 $S:0}
 A.aHv.prototype={
 $0(){return B.b.dw(this.a.d,new A.aHt())},
@@ -106126,10 +106130,10 @@ $1(a){return a.a===B.fe},
 $S:70}
 A.aHw.prototype={
 $0(){var s=this.a
-s.fy=this.b
-s.fr=this.c
-s.fx=!0
-s.k3=!1},
+s.id=this.b
+s.fy=this.c
+s.go=!0
+s.y=s.x=s.ok=!1},
 $S:0}
 A.aHx.prototype={
 $0(){return B.b.dw(this.a.d,new A.aHs())},
@@ -106139,10 +106143,10 @@ $1(a){return a.a===B.fe},
 $S:70}
 A.aHy.prototype={
 $0(){var s=this.a
-s.fy=s.gen()+" had to decide what to do next..."
-s.fr=A.b(["Keep exploring!","Look more carefully!"],t.s)
-s.fx=!0
-s.k3=!1},
+s.id=s.gen()+" had to decide what to do next..."
+s.fy=A.b(["Keep exploring!","Look more carefully!"],t.s)
+s.go=!0
+s.y=s.x=s.ok=!1},
 $S:0}
 A.aH1.prototype={
 $1(a){var s=null,r=A.ae(16)
@@ -106156,14 +106160,14 @@ $0(){return A.b4(this.a,!1).by(!0)},
 $S:0}
 A.aHU.prototype={
 $0(){var s=this.a
-s.fr=A.b([],t.s)
-s.fy="";++s.p2},
+s.fy=A.b([],t.s)
+s.id="";++s.p4},
 $S:0}
 A.aHV.prototype={
-$0(){++this.a.p3},
+$0(){++this.a.R8},
 $S:0}
 A.aHW.prototype={
-$0(){this.a.k1=!1},
+$0(){this.a.k3=!1},
 $S:0}
 A.aIy.prototype={
 $0(){var s=0,r=A.r(t.H),q=this,p,o
@@ -106182,14 +106186,14 @@ $S:0}
 A.aIz.prototype={
 $2(a,b){var s,r,q,p,o,n=null,m=this.a,l=m.d
 if(b<l.length)return m.aoq(l[b],b)
-if(m.fr.length!==0&&!m.k3&&!m.k1&&!m.x&&!m.y){l=A.b([],t.p)
-s=m.fy
+if(m.fy.length!==0&&!m.ok&&!m.k3&&!m.z&&!m.Q){l=A.b([],t.p)
+s=m.id
 if(s.length!==0){r=m.a
 q=r.d
 p=q.y
 q=q.z
 o=A.cT(n,n,r.c==="space travel"?B.W:B.a1,n,n,n,n,n,n,n,n,20,B.cd,n,n,n,n,!0,n,n,n,n,n,n,n,n)
-l.push(A.ji(B.k,B.k,m.a.c==="space travel"?B.ec:B.ab,B.c2,B.bN,q,"Read bridge",s,o,p))}s=m.fr
+l.push(A.ji(B.k,B.k,m.a.c==="space travel"?B.ec:B.ab,B.c2,B.bN,q,"Read bridge",s,o,p))}s=m.fy
 r=m.a
 q=r.d
 p=q.y
@@ -106202,10 +106206,10 @@ A.aH4.prototype={
 $1(a){return this.a.x5()},
 $S:23}
 A.aIn.prototype={
-$0(){return this.a.ry=!1},
+$0(){return this.a.x1=!1},
 $S:0}
 A.aIo.prototype={
-$0(){return this.a.ry=!0},
+$0(){return this.a.x1=!0},
 $S:0}
 A.aIq.prototype={
 $2(a,b){var s=this.a
@@ -106213,7 +106217,7 @@ s.F(new A.aIl(s,a))},
 $S:81}
 A.aIl.prototype={
 $0(){var s=this.b
-this.a.z.sc2(0,s)
+this.a.as.sc2(0,s)
 return s},
 $S:0}
 A.aIp.prototype={
@@ -106221,30 +106225,31 @@ $0(){var s=this.a
 return s.F(new A.aIm(s))},
 $S:0}
 A.aIm.prototype={
-$0(){return this.a.ry=!1},
+$0(){return this.a.x1=!1},
 $S:0}
 A.aId.prototype={
-$0(){this.a.x=!1},
+$0(){this.a.z=!1},
 $S:0}
 A.aIe.prototype={
-$0(){var s=this.a,r=s.go
-if(r.length!==0&&s.fy.length===0)s.fy=B.b.gaf(r).b},
+$0(){var s=this.a,r=s.k1
+if(r.length!==0&&s.id.length===0)s.id=B.b.gaf(r).b
+s.y=!1},
 $S:0}
 A.aIf.prototype={
-$0(){var s=this.a,r=s.go
-if(r.length!==0&&s.fy.length===0)s.fy=B.b.gaf(r).b
-s.y=!0
-s.fr=A.b([],t.s)
-s.fy=""},
+$0(){var s=this.a,r=s.k1
+if(r.length!==0&&s.id.length===0)s.id=B.b.gaf(r).b
+s.Q=!0
+s.fy=A.b([],t.s)
+s.id=""},
 $S:0}
 A.aIg.prototype={
 $0(){var s=this.a,r=A.b([this.b],t.s),q=this.c
 J.aPD(r,A.ff(q,0,A.m4(2,"count",t.S),A.Z(q).c))
-s.fr=r
-s.y=s.fx=!1},
+s.fy=r
+s.x=s.Q=s.go=!1},
 $S:0}
 A.aIh.prototype={
-$0(){this.a.y=!1},
+$0(){this.a.Q=!1},
 $S:0}
 A.aH9.prototype={
 $1(a){return this.a.x6()},
@@ -106261,22 +106266,22 @@ return A.q($async$$0,r)},
 $S:3}
 A.aH8.prototype={
 $0(){var s=this.a
-s.Q=!1
-s.at.eP(0,B.bH)
-s.to=!1},
+s.at=!1
+s.ay.eP(0,B.bH)
+s.x2=!1},
 $S:0}
 A.aHb.prototype={
 $0(){var s=this.a
 return s.F(new A.aH7(s))},
 $S:0}
 A.aH7.prototype={
-$0(){return this.a.Q=!0},
+$0(){return this.a.at=!0},
 $S:0}
 A.aI9.prototype={
-$0(){return this.a.to=!1},
+$0(){return this.a.x2=!1},
 $S:0}
 A.aIa.prototype={
-$0(){return this.a.to=!0},
+$0(){return this.a.x2=!0},
 $S:0}
 A.aIc.prototype={
 $2(a,b){var s=this.a
@@ -106284,7 +106289,7 @@ if(s.c!=null)s.F(new A.aI7(s,a))},
 $S:81}
 A.aI7.prototype={
 $0(){var s=this.b
-this.a.at.sc2(0,s)
+this.a.ay.sc2(0,s)
 return s},
 $S:0}
 A.aIb.prototype={
@@ -106292,19 +106297,19 @@ $0(){var s=this.a
 if(s.c!=null)s.F(new A.aI8(s))},
 $S:0}
 A.aI8.prototype={
-$0(){return this.a.to=!1},
+$0(){return this.a.x2=!1},
 $S:0}
 A.aIi.prototype={
 $0(){var s=this.a
-s.Q=!1
-s.as=!0
-s.at.eP(0,B.bH)},
+s.at=!1
+s.ax=!0
+s.ay.eP(0,B.bH)},
 $S:0}
 A.aIj.prototype={
-$0(){return this.a.as=!1},
+$0(){return this.a.ax=!1},
 $S:0}
 A.aIk.prototype={
-$0(){return this.a.as=!1},
+$0(){return this.a.ax=!1},
 $S:0}
 A.aH5.prototype={
 $0(){var s=this.a.a.d.y
@@ -106323,7 +106328,7 @@ $S:0}
 A.aI0.prototype={
 $0(){var s,r=this,q=r.a,p=q.d,o=r.b,n=B.b.uo(p,new A.aHZ(o))
 if(n!==-1)p[n]=new A.f0(B.mZ,r.c)
-q=q.dy
+q=q.fx
 s=B.b.uo(q,new A.aI_(o))
 if(s!==-1)q[s]=new A.cZ("image_picker",r.c,null,null)},
 $S:0}
@@ -106338,7 +106343,7 @@ $0(){var s=this.a
 return s.F(new A.aHi(s))},
 $S:0}
 A.aHi.prototype={
-$0(){return this.a.k2=!0},
+$0(){return this.a.k4=!0},
 $S:0}
 A.aHm.prototype={
 $0(){var s=this
@@ -106352,21 +106357,21 @@ $1(a){return this.a6P(a)},
 a6P(a){var s=0,r=A.r(t.H),q=this,p,o,n,m,l
 var $async$$1=A.t(function(b,c){if(b===1)return A.o(c,r)
 for(;;)switch(s){case 0:l=q.a
-if(l.k1)l.F(new A.aHj(l))
+if(l.k3)l.F(new A.aHj(l))
 A.cb().$1("\ud83d\uddbc\ufe0f Image selected: "+a)
 p=q.b
 s=2
 return A.n(l.AP(a,p,q.c),$async$$1)
 case 2:o=c
-n=l.dy
+n=l.fx
 m=B.b.uo(n,new A.aHk(q.d))
 if(m!==-1)n[m]=new A.cZ("animal_image",p+"|"+o,null,null)
-if(l.k4)l.wS()
+if(l.p1)l.wS()
 return A.p(null,r)}})
 return A.q($async$$1,r)},
 $S:232}
 A.aHj.prototype={
-$0(){return this.a.k2=!0},
+$0(){return this.a.k4=!0},
 $S:0}
 A.aHk.prototype={
 $1(a){return a.a==="image_picker"&&a.b===this.a},
@@ -106380,10 +106385,10 @@ $C:"$3",
 $R:3,
 $S:88}
 A.aIt.prototype={
-$0(){return this.a.ry=!1},
+$0(){return this.a.x1=!1},
 $S:0}
 A.aIu.prototype={
-$0(){return this.a.ry=!0},
+$0(){return this.a.x1=!0},
 $S:0}
 A.aIw.prototype={
 $2(a,b){var s=this.a
@@ -106400,7 +106405,7 @@ $0(){var s=this.a
 return s.F(new A.aIs(s))},
 $S:0}
 A.aIs.prototype={
-$0(){return this.a.ry=!1},
+$0(){return this.a.x1=!1},
 $S:0}
 A.aHh.prototype={
 $1(a){return this.a.Xg()},
